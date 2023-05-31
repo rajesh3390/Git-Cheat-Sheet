@@ -1,4 +1,4 @@
-# Git-Cheat-Sheet
+# Git-Commands-Sheet
 A cheat sheet for uncommon Git commands
 
 ## Configuration
